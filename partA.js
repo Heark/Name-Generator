@@ -1,1 +1,1 @@
-var partA = ["Hym", "Leo", "Ry", "Hyn" "Rof", "In", "I", "Iri", "Oin", "As", "Ga", "Gu", "Gree", "Larv", "Kan", "Kin", "Aug", "Fyr", "Fawn", "Jon", "Son" ]
+var partA = ["Hym", "Leo", "Ry", "Hyn", "Rof", "In", "I", "Ve", "Vy", "Em", "Sa", "Cu","Hy", "Ry", "Ty", "Sy", "Iri", "Oin", "As", "Ga", "Gu", "Gree", "Larv", "Kan", "Kin", "Aug", "Fyr", "Fawn", "Jon", "Son" ]
