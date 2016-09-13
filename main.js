@@ -7,5 +7,5 @@ function randOutput() {
 
 $("#generate").click(function(){
  PAPB = randOutput();
-  $("#output").html(PAPB);
+  $("#output").html(PAPB.toString());
 }) 
