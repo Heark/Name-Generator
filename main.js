@@ -6,5 +6,5 @@ function randOutput() {
 }
 
 $("#generate").click(function(){
-  $("#output").html("<font color = red>"+randOutput()+"</font>");
+  $("#output").val(randOutput());
 }) 
