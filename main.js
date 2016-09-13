@@ -6,5 +6,5 @@ function randOutput() {
 }
 
 $("#generate").click(function(){
-  $("#output").val(randOutput());
+  $("#output").html(randOutput());
 }) 
